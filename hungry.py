@@ -5,4 +5,4 @@ if hungry=='yes':
 else:
 	print ("Do you work")
 
-
+print "adddddd" 
